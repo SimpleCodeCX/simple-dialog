@@ -1,0 +1,20 @@
+.github-code {
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.demo-box {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.demo-box button {
+  width: 120px;
+  height: 40px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
