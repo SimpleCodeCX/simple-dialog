@@ -1,6 +1,6 @@
 {
   "name": "@simplexd/dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A class to create dialog.",
   "main": "index.js",
   "scripts": {
