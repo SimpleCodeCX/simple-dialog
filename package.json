@@ -1,11 +1,15 @@
 {
-  "name": "simple-dialog",
+  "name": "@simplexd/dialog",
   "version": "1.0.0",
-  "description": "simple-dialog",
+  "description": "A class to create dialog.",
   "main": "index.js",
   "scripts": {
     "serve": "webpack-dev-server --open --inline --progress --config build/webpack.dev.conf.js",
     "build": "webpack --config build/webpack.prod.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimpleCodeCX/simple-dialog.git"
   },
   "keywords": [
     "dialog"
